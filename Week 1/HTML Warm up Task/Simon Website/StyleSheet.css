@@ -1,0 +1,24 @@
+body {
+    color: black;
+    padding: 2em;       /* Padding is 2 times the current zoom level font size */
+    }
+
+footer {
+    margin-top: 64px;  /* Keeps footer a bit separated from main content */
+}
+
+h1 {
+    font-size: 40px;
+    }
+
+h2 {
+    font-size: 30px;
+    }
+
+h3 {
+    font-size: 25px;
+    }
+
+p {
+    font-size: 0.75em;
+}

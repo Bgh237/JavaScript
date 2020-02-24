@@ -1,0 +1,30 @@
+h1 {
+ color: rgb(251, 255, 0); 
+ background-color:rgb(219, 11, 11);
+ text-align: center;
+ letter-spacing: 3px;
+ font-family: "Times New Roman", Times, serif;
+}
+.lists {
+    color: green;
+    text-align: center;
+    word-spacing: 2px;
+    background-color:rgb(8, 0, 0);
+    font-size: 20px;
+
+}
+#last {
+    color: rgb(252, 246, 246);
+    background-color:rgb(164, 7, 255);
+}
+
+h2 {
+    text-align: center;
+}
+
+#websites {
+    font-size: 30px;
+}
+li{
+    margin: 30px;
+  }
