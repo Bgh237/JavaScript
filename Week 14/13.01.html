@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Temperature Converter</title>
+</head>
+
+<body>
+    <h1>Temperature Converter</h1>
+    
+    <p>Conversion:
+
+    <select id="convert">
+        <option value="f2c">Fahrenheit to Celsius</option>
+        <option value="c2f">Celsius to Fahrenheit</option>
+    </select>
+
+    </p>
+
+    <p>
+        Temperature: 
+        <input type="text" id="txtTemp" />
+    </p>
+
+    <p>
+        Result: 
+        <input id="pOutput"></input>
+            
+    </p>
+
+    <input type="submit" value="Convert" onclick="convert()"/>
+    
+
+    <p id="pOutput"></p>
+
+    <script src="13.01.js"></script>
+
+</body>
+
+</html>
